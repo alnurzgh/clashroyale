@@ -58,10 +58,16 @@ h3 {
 }
 
 /* Основные секции */
-main, section {
+main {
   padding: 20px;
   max-width: 900px;
   margin: 0 auto;
+}
+section {
+  width: 100%;
+  max-width: 100%; /* убираем ограничение */
+  margin: 0;
+  padding: 0;      /* или оставить чуть-чуть */
 }
 
 /* Списки */
@@ -507,4 +513,5 @@ header h1 {
   height: 100%;
   object-fit: cover; 
   display: block;
+
 }
