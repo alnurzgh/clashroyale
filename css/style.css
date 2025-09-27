@@ -472,7 +472,7 @@ header.page-header h1 {
   height: 100%;
   filter: blur(8px) brightness(0.6); 
   z-index: -1; 
-  background: url(/img/ocean-wallpaper-from-the-clash-royale-phone-game-molqz37gdo31y4o7.jpg) no-repeat center center / cover;;
+  background: url(../img/ocean-wallpaper-from-the-clash-royale-phone-game-molqz37gdo31y4o7.jpg) no-repeat center center / cover;;
 }
 ::placeholder {
   color: #ffd166;
@@ -534,5 +534,6 @@ footer{
   }
 }
   }
+
 
 }
